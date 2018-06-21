@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Innova Desktop Environment
+Comment=Innova - Lightweight and Integrated Desktop Environment
+Exec=/usr/bin/startinnova
+Icon=/usr/share/pixmaps/innova.png
+Type=Application
+ 
+#Translations
+Name[es]=Entorno de Escritorio Innova
+Comment[es]=Innova - Ligero e Integrado Ambiente de Escritorio
+Name[en]=Innova Desktop Environment
+Comment[en]=Innova - Lightweight and Integrated Desktop Environment
+Name[fr]=Innova Bureau Environnement
+Comment[fr]=Innova - Léger et Intégré Bureau de Environnement

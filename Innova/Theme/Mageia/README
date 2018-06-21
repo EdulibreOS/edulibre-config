@@ -1,0 +1,20 @@
+Los archivos de este directorio se usan para mostrar la apariencia del launcher.
+Básicamente consiste en la creacion de imagenes y la edicion de algunas lineas
+del archivo de configuracion InnTheme.
+
+Warning: Si modifica alguna linea del archivo InnTheme con datos incorrectos el 
+TEMA no podra ser interpretado por el programa, por consiguiente no podra mostrar
+la apariencia de forma correcta.
+Las lineas que contengan el archivo de configuracion puede ser modificable toda
+ves ponga el signo (=) y se respeten los numeros de las lineas con los parametros
+correctos de los contrario no podra ser interpretado, no importando si es imagen (cadena)
+o es el color (entero).
+
+Para la utilización de los colores debe de utilizarse valores RGB.
+
+Example:
+
+Inn/LogoImg=Inn_logo.png
+Inn/Font_Name=Sans
+Inn/Background_Color=&HCDE9FF&
+

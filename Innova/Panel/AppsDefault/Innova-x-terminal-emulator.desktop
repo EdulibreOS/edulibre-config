@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Name=Terminal emulator
+Name[es]=Emulador de terminal
+Name[fr]=Emulateur de terminal
+Comment=Terminal Emulator
+Comment[es]=Emulador de terminal
+Comment[fr]=Emulateur de terminal
+GenericName=Terminal Emulator
+GenericName[es]=Emulador de terminal
+GenericName[fr]=Emulateur de terminal
+Exec=/usr/bin/x-terminal-emulator
+Icon=terminal
+Terminal=false
+Type=Application
+Categories=System;Utility;
+StartupNotify=true
+NoDisplay=true
