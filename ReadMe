@@ -1,0 +1,57 @@
+Innova Desktop Development Version
+
+Innova can coexist with other Environments without changing its operation.
+
+Innova graphical environment to launch applications, easy to use and fast, Developed with Gambas3..
+
+Requirements Minimal
+Gambas 3.X
+
+Add Repositories Gambas3
+
+ sudo add-apt-repository ppa:gambas-team/gambas3
+ sudo apt-get update
+ sudo apt-get install gambas3
+
+Install
+Windows_Manager(openbox)
+File_Manager(pcmanfm)
+
+sudo apt-get install openbox pcmanfm
+
+You must copy:
+
+Innova to /usr/share
+*.directory in desktop-directories to /usr/share/desktop-directories or /HOME/USER/.local/share
+GartoonRedux to /usr/share/icons or /HOME/USER/.local/share
+Innova.desktop to /usr/share/xsessions (ubuntu/debian)
+startinnova to /usr/bin or /HOME/USER/BINARY
+
+to run Innova_Desktop copy the binary files to destination folder.
+
+Examples Innova.gambas in /usr/bin
+If you want to change the path of the binary file, you must change the following line in the startinnova file
+
+exec /usr/bin/Innova.gambas
+by
+exec new route Innova.gambas
+
+
+
+The configuration files for each user are copied from /usr/share/Innova to /HOME/USER/.config/ when it is first run.
+
+File that stores the Innova configuration in /HOME/USER/.config/
+Innova_Config.conf
+
+
+NOTE
+Take into account that to run correctly Innova must have made its custom configuration in Innova_Config.conf.
+
+Example:
+Windows_Manager = "openbox, mutter, gala or kwin"
+Language_System="es_GT.UTF-8"
+File_Manager ="pcmanfm. nautilus, dolphin, more"
+Terminal = "x-terminal-emulator"
+Browser = "x-www-browser"
+Video_Player ="vlc, xt7-player, more"
+Text_Edit = "gedit, leafpad, gbedit, more"

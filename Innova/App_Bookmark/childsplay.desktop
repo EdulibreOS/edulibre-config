@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Childsplay
+GenericName=Childsplay
+Comment=Suite of educational games for young children
+Comment[ca]=Conjunt de jocs educatius per a xiquets
+Comment[es]=Conjunto de juegos educativos para niños
+Comment[fr]=Ensemble de jeux éducatifs pour les enfants
+Icon=/usr/share/pixmaps/childsplay.png
+Exec=childsplay
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;Education;KidsGame;2DGraphics;3-6;7-9;10-12;Preescolar;Primaria_Básica;Primaria_Avanzada;Matemáticas;Lógica;

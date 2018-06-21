@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Web Browser
+Name[es]=X Navegador Web
+Name[fr]=X Navigateur Web
+GenericName=X Web Browser
+GenericName[es]=Navegador web gráfico
+GenericName[fr]=X Navigateur Web
+Exec=/usr/bin/x-www-browser %u
+Terminal=false
+Type=Application
+Categories=WebBrowser;Network
+Icon=web-browser
+NoDisplay=true
