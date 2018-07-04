@@ -1,57 +1,47 @@
-Innova Desktop Development Version
+Innova Desktop es un lanzar aplicaciones, fácil de usar y rápido, desarrollado con Gambas3.
 
-Innova can coexist with other Environments without changing its operation.
+Innova puede coexistir con otros entornos sin afectar su funcionamiento.
 
-Innova graphical environment to launch applications, easy to use and fast, Developed with Gambas3..
+Requisitos mínimos:
+ -Gambas3.x
 
-Requirements Minimal
-Gambas 3.X
+Añadir repositorios Gambas3
 
-Add Repositories Gambas3
+ -sudo add-apt-repository ppa:gambas-team/gambas3
+ -sudo apt-get update
+ -sudo apt-get install gambas3
 
- sudo add-apt-repository ppa:gambas-team/gambas3
- sudo apt-get update
- sudo apt-get install gambas3
+Para su correcta funcionalidad debemos de tener ciertos programas basicos. Instalamos un manjeador de ventanas(windows manager),un navegador de archivos (file manager), un paquete de iconos en este caso será (GartoonRedux).
 
-Install
-Windows_Manager(openbox)
-File_Manager(pcmanfm)
+ -sudo apt-get install openbox pcmanfm GartoonRedux
 
-sudo apt-get install openbox pcmanfm
+Al tener lo necesario debemos de configurar nuestro archivo de configuración:
 
-You must copy:
+Copiamos:
 
-Innova to /usr/share
-*.directory in desktop-directories to /usr/share/desktop-directories or /HOME/USER/.local/share
-GartoonRedux to /usr/share/icons or /HOME/USER/.local/share
-Innova.desktop to /usr/share/xsessions (ubuntu/debian)
-startinnova to /usr/bin or /HOME/USER/BINARY
+ -Los archivos que están adentro del directorio desktop-directories (* .directory) en el directorio /usr/share/desktop-directories o bien en /HOME/USER/.local/share
 
-to run Innova_Desktop copy the binary files to destination folder.
+ -La carpeta Innova en /usr/share/ o en /HOME/USER/.config/ 
 
-Examples Innova.gambas in /usr/bin
-If you want to change the path of the binary file, you must change the following line in the startinnova file
+ -El archivo Innova.desktop en /usr/share/xsessions si el sistema fuera  (ubuntu/debian)
 
-exec /usr/bin/Innova.gambas
-by
-exec new route Innova.gambas
+ -startinnova en /usr/bin
+
+ -Para poder ejecutar Innova correctamente debe de crear los archivos binarios desde Gambas de todas las aplicaciones de los repositorios y luego copiarlos en /usr/bin.
+Tambien podriamos crear el archivo binario en nuestro usuario o carpeta 	que deseamos, y modificar el archivo startinnova que se encuentra en 	/usr/bin y la linea exec /usr/bin/Innova.gambas a exec  	/HOME/USER/Innova.gambas. 
+
+ -Los archivos de configuración del sistema se encuentra en  /HOME/USER/.config/Innova_Config.conf
 
 
+NOTA:
+Tenga en cuenta que para ejecutar correctamente, Innova debe haber hecho su configuración personalizada en Innova_Config.conf.
 
-The configuration files for each user are copied from /usr/share/Innova to /HOME/USER/.config/ when it is first run.
+Ejemplo:
 
-File that stores the Innova configuration in /HOME/USER/.config/
-Innova_Config.conf
-
-
-NOTE
-Take into account that to run correctly Innova must have made its custom configuration in Innova_Config.conf.
-
-Example:
 Windows_Manager = "openbox, mutter, gala or kwin"
 Language_System="es_GT.UTF-8"
-File_Manager ="pcmanfm. nautilus, dolphin, more"
+File_Manager ="pcmanfm. nautilus, dolphin, otro"
 Terminal = "x-terminal-emulator"
 Browser = "x-www-browser"
-Video_Player ="vlc, xt7-player, more"
-Text_Edit = "gedit, leafpad, gbedit, more"
+Video_Player ="vlc, xt7-player, otro"
+Text_Edit = "gedit, leafpad, gbedit, otro"
