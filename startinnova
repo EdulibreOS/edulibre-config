@@ -34,5 +34,12 @@ fi
 export XDG_MENU_PREFIX="innova-"
 export XDG_CURRENT_DESKTOP="Innova"
 
+#Current code, require symbolic links at home folder, and this cant be packaged
+[ -f $HOME/Launcher_Mini.gambas ]   && echo "symbolic link Launcher_Mini already exists"   || ln -s /usr/bin/qlauncher $HOME/Launcher_Mini.gambas
+[ -f $HOME/Launcher_CNB.gambas ]    && echo "symbolic link Launcher_CNB  already exists"   || ln -s /usr/bin/qlauncher $HOME/Launcher_CNB.gambas
+[ -f $HOME/Launcher_Tablet.gambas ] && echo "symbolic link Launcher_Tablet already exists" || ln -s /usr/bin/qlauncher $HOME/Launcher_Tablet.gambas
+[ -f $HOME/QSettings.gambas ] && echo "symbolic link QSettings already exists" || ln -s /usr/bin/qsettings $HOME/QSettings.gambas
+
+
 # Start the Innova session
 exec /usr/bin/Innova.gambas
