@@ -1,22 +1,16 @@
 [Desktop Entry]
 Comment=Use WPS Writer to edit articles and reports.
-Comment[es]=Cree y edite texto y gráficos en cartas, informes, documentos y páginas Web con Writer.
-Comment[fr]=Writer - Création et édition de textes et d'images pour courriers, rapports, documents et pages Web.
 Comment[zh_CN]=使用 WPS 文字编写报告，排版文章
 Exec=/usr/bin/wps %f
 GenericName=WPS Writer
-GenericName[es]=WPS Procesador de texto
-GenericName[fr]=WPS Traitement de texte
 GenericName[zh_CN]=WPS 文字
 MimeType=application/wps-office.wps;application/wps-office.wpt;application/wps-office.doc;application/wps-office.dot;application/vnd.ms-word;application/msword;application/x-msword;application/msword-template;application/wps-office.docx;application/wps-office.dotx;application/rtf;
 Name=WPS Writer
-Name[es]=WPS Procesador de texto
-Name[fr]=WPS Traitement de texte
 Name[zh_CN]=WPS 文字
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=Office;WordProcessor;Qt;13-15;16>;Básico;Diversificado;Comunicación_y_Lenguaje;
+Categories=Office;WordProcessor;Qt;
 X-DBUS-ServiceName=
 X-DBUS-StartupType=
 X-KDE-SubstituteUID=false

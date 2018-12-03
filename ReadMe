@@ -13,7 +13,7 @@ Añadir repositorios Gambas3
 
 Para su correcta funcionalidad debemos de tener ciertos programas basicos. Instalamos un manjeador de ventanas(windows manager),un navegador de archivos (file manager), un paquete de iconos en este caso será (GartoonRedux).
 
- -sudo apt-get install openbox pcmanfm GartoonRedux
+ -sudo apt-get install openbox pcmanfm Numix-circle
 
 Al tener lo necesario debemos de configurar nuestro archivo de configuración:
 
