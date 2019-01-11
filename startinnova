@@ -34,11 +34,5 @@ fi
 export XDG_MENU_PREFIX="innova-"
 export XDG_CURRENT_DESKTOP="Innova"
 
-#Current code, require symbolic links at home folder, and this cant be packaged
-[ -f /usr/bin/qlauncher_mini ]   && echo "symbolic link qlauncher_mini already exists"   || ln -s /usr/bin/qlauncher /usr/bin/qlauncher_mini
-[ -f /usr/bin/qlauncher_cnb ]    && echo "symbolic link qlauncher_cnb  already exists"   || ln -s /usr/bin/qlauncher /usr/bin/qlauncher_cnb
-[ -f /usr/bin/qlauncher_tablet ] && echo "symbolic link qlauncher_tablet already exists" || ln -s /usr/bin/qlauncher /usr/bin/qlauncher_tablet
-
-
 # Start the Innova session
 exec /usr/bin/qpanel
