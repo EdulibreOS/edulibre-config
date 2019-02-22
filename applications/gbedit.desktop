@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=gbEdit
+Comment[es]=Editor de texto simple
+Comment[eu]=Testu editore sinplea
+Comment[fr]=Un éditeur de texte tout simple
+Comment=A simple and small text editor.
+Exec=/usr/bin/gbEdit
+Icon=/usr/share/pixmaps/gbedit.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Utility;
+MimeType=text/plain;text/x-chdr;text/x-csrc;text/x-c++src;text/x-c++hdr;text/x-diff;text/x-java;text/x-php;text/x-python;text/x-shellscript;text/x-sql;application/octet-stream;application/pgp-keys;application/xml;application/x-csh;application/x-java;application/x-perl;application/x-php;application/x-ruby;application/x-shellscript;application/x-subrip;application/x-x509-ca-cert;inode/symlink;inode/x-empty

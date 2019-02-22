@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Ri-li
+Comment=a toy simulator game
+Comment[de]=Ein Spiel mit einem kleinen Zug
+Comment[fr]=un jeu de petit train
+Comment[es]=Simulador de trenes de juguete
+Comment[ro_RO]=un joc cu un tren de jucărie
+Exec=ri-li
+Icon=ri-li
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;
+Keywords=toy;train;wooden;snake-like;engine;

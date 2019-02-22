@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=gbTerminal
+Comment[es]=Utilice la línea de órdenes
+Comment[fr]=Utiliser la ligne de commande
+Comment=Use the command line
+Exec=/usr/bin/gbterminal
+Icon=gbterminal
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;Utility;

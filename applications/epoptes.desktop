@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Epoptes
+Comment=Herramienta de administración del laboratorio de computación de Epoptes.
+Comment[es]=Herramienta de administración del laboratorio de computación de Epoptes.
+TryExec=/usr/bin/epoptes
+Exec=/usr/bin/epoptes
+Icon=epoptes
+Terminal=false
+Type=Application
+Categories=Network;RemoteAccess;
+X-Ubuntu-Gettext-Domain=epoptes

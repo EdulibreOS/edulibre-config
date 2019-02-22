@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Tux Typing
+GenericName=Educational typing game
+Comment=Educational typing tutor game starring Tux
+Comment[fr]= Jeu éducatif de professeur de dactylographie avec Tux
+Comment[es]= Juego educativo de tutor de mecanografía protagonizada por Tux
+Exec=tuxtype
+Icon=tuxtype
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Education;
+X-Ubuntu-Gettext-Domain=tuxtype

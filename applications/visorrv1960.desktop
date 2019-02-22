@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=VisorRV1960
+Comment=Lee y escudriña las Escrituras.
+Exec=/usr/bin/VisorRV1960
+Icon=visorrv1960
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Education;Game;Literature;Office;Comunicación y Lenguaje L1;Comunicación y Lenguaje L2;Matemáticas;Medio social y natural

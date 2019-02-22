@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=OpenShot Video Editor
+GenericName=Video Editor
+X-GNOME-FullName=OpenShot Video Editor
+Comment=Create and edit amazing videos and movies
+Comment[fr]=Créer et éditer des vidéos et des films étonnants
+Comment[es]= Crea y edita increíbles videos y películas
+Exec=openshot-qt %F
+Terminal=false
+Type=Application
+Icon=openshot-qt
+Categories=GNOME;GTK;AudioVideo;Video;AudioVideoEditing;
+MimeType=application/vnd.openshot-qt-project;
+X-AppInstall-Package=openshot-qt

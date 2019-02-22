@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Scratch2
+Comment=Scratch is a free visual programming language. Scratch is used by students, scholars, teachers, and parents to easily create animations, games.
+Comment[es]=Scratch es un lenguaje de programación visual libre orientado a la enseñanza principalmente mediante la creación de juegos.
+Comment[fr]=Scratch est un langage de programmation visuel orienté éducation gratuite grâce à la création de jeux.
+GenericName=Scratch 2
+#Exec='/opt'/'Scratch 2'/bin/'Scratch 2'
+Exec=/opt/Scratch2/bin/Scratch2
+Type=Application
+Terminal=false
+Icon=/usr/share/pixmaps/scratch2.png
+StartupNotify=true
+X-KDE-StartupNotify=true
+Categories=Utility;Development;
+X-AppInstall-Package=edu.media.mit.scratch2editor
+X-AppInstall-Section=main
+

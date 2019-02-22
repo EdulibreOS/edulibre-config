@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Quadrapassel
+Comment=Accommodate geometric figures in order to form complete blocks
+Comment[fr]= Accueillir des figures géométriques afin de former des blocs complets
+Comment[es]= Acomodar figuras geométricas con el fin de formar bloques completos 
+Icon=quadrapassel
+Exec=quadrapassel
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;BlocksGame;Matemáticas
+Keywords=tetris;
+StartupNotify=true
+X-Ubuntu-Gettext-Domain=quadrapassel

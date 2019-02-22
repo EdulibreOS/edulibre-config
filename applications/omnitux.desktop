@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Path=/usr/share/omnitux
+Exec=/usr/bin/omnitux
+Type=Application
+Categories=Game;Education;Ciencias Sociales;Comunicación y Lenguaje;Comunicación y lenguaje L1;Destrezas de Aprendizaje;Expresión Artística;Matemáticas;Medio Social y Natural
+Name=Omnitux
+GenericName=Omnitux
+Comment=An educational game based on multimedia elements.
+Comment[fr]=Un jeu ludo-éducatif basé sur des éléments multimédias.
+Comment[es]= Un juego educativo basado en elementos multimedia. 
+Terminal=false
+Icon=/usr/share/omnitux/data/default/icons/Omnitux_logo.svg

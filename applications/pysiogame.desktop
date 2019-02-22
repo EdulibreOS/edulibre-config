@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=pySioGame
+Comment=A little set of educational apps for kids
+Comment[fr]= Un petit ensemble d'applications éducatives pour les enfants
+Comment[es]= Un pequeño conjunto de aplicaciones educativas para niños
+Path=/usr/share/games/pysiogame/
+Exec=pysiogame
+Terminal=false
+Type=Application
+Categories=Game;Education;Destrezas del Aprendizaje;Expresión Artística;Matemáticas
+Icon=pysiogame
