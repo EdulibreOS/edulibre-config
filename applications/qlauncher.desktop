@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=qlauncher
+Comment=Launcher facility for Innova Desktop
+Exec=/usr/bin/qlauncher
+Icon=qlauncher
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=KDE;

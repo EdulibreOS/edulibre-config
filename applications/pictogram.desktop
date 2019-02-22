@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Pictogram
+Comment=Pictogram is an application to view and edit images in a simple and fast way 
+Comment[fr]=Pictogram est une application qui permet de visualiser et d'éditer des images de manière simple et rapide. 
+Comment[es]=Ver y editar imágenes de una manera simple y rápida
+Exec=/usr/bin/pictogram
+Icon=pictogram
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Graphics;
+MimeType=image/png;image/jpeg;image/gif;image/bmp

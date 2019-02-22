@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=TuxGuitar
+GenericName=TuxGuitar
+Comment=TuxGuitar
+Comment[fr]=Edite, joue des tablatures de guitare
+Comment[es]=Edita, reproduce tablaturas de guitarra
+Type=Application
+MimeType=audio/x-tuxguitar;audio/x-gtp;audio/x-ptb
+Categories=Application;AudioVideo;
+Exec=tuxguitar
+Icon=tuxguitar
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,179 @@
+org.kde.k3b.desktop	k3b %U			false
+krita_exr.desktop	krita %u			true
+visorrv1960.desktop	/usr/bin/VisorRV1960			false
+systemsettings.desktop	systemsettings5		KDE;	false
+libreoffice-math.desktop	libreoffice --math %U	libreoffice-math		false
+dia.desktop	dia %F			false
+etoys.desktop	/usr/games/etoys			false
+libreoffice-writer.desktop	libreoffice --writer %U	libreoffice-writer		false
+software-properties-gtk.desktop	software-properties-gtk			false
+nm-connection-editor.desktop	nm-connection-editor			false
+libreoffice-calc.desktop	libreoffice --calc %U	libreoffice-calc		false
+nm-applet.desktop	nm-applet			true
+marble_worldwind.desktop	marble --geo-uri=%u			true
+org.kde.kalzium.desktop	kalzium -qwindowtitle %c			false
+simple-scan.desktop	simple-scan			false
+pcinfo.desktop	/usr/bin/PCInfo			false
+krita_ora.desktop	krita %u			true
+org.kde.bovo.desktop	bovo -qwindowtitle %c			false
+gambas3.desktop	gambas3			false
+inkscape.desktop	inkscape %F			false
+Kino.desktop	kino %F			false
+org.kde.discover.desktop	plasma-discover %F			false
+lxtask.desktop	lxtask			false
+org.kde.rocs.desktop	rocs %u -qwindowtitle %c			false
+org.kde.khangman.desktop	khangman -qwindowtitle "%c" %i			false
+org.kde.kcalc.desktop	kcalc			false
+iptux.desktop	iptux			false
+ktelnetservice5.desktop	ktelnetservice5 %u			true
+klavaro.desktop	klavaro			false
+gimp.desktop	gimp-2.8 %U			false
+mono-runtime-common.desktop	mono			true
+qasmixer.desktop	qasmixer			false
+libreoffice-startcenter.desktop	libreoffice %U	libreoffice-startcenter		false
+org.kde.ktuberling.desktop	ktuberling -qwindowtitle %c %u			false
+librecad.desktop	librecad %F			false
+org.kde.ktouch.desktop	ktouch			false
+python3.6.desktop	/usr/bin/python3.6			true
+pcmanfm.desktop	pcmanfm %U			false
+tuxfootball.desktop	tuxfootball			false
+org.kde.kitenradselect.desktop	kitenradselect			true
+shotwell-viewer.desktop	shotwell %f			true
+laby.desktop	/usr/games/laby			false
+unetbootin.desktop	/usr/bin/unetbootin_asroot			false
+openjdk-8-policytool.desktop	/usr/bin/policytool			false
+org.kde.kalgebra.desktop	kalgebra %u			false
+jclic.desktop	jclic %U			false
+krita_spriter.desktop	krita %u			true
+leafpad.desktop	leafpad %f			false
+update-manager.desktop	/usr/bin/update-manager			false
+tuxguitar.desktop	tuxguitar			false
+filezilla.desktop	filezilla			false
+tupi.desktop	/usr/lib/tupi/bin/tupi			false
+krita_qimageio.desktop	krita %u			true
+mono-runtime-terminal.desktop	mono			true
+org.kde.ksudoku.desktop	ksudoku -qwindowicon ksudoku -qwindowtitle %c			false
+krita_gif.desktop	krita %u			true
+apport-gtk.desktop	/usr/share/apport/apport-gtk -c %f			true
+org.kde.knetwalk.desktop	knetwalk -qwindowtitle %c			false
+org.kde.kwordquiz.desktop	kwordquiz %u -qwindowtitle %c -qwindowicon kwordquiz			false
+org.kde.kwalletmanager5.desktop	kwalletmanager5 %u			false
+libreoffice-impress.desktop	libreoffice --impress %U	libreoffice-impress		false
+org.kde.kapman.desktop	kapman			false
+org.kde.klettres.desktop	klettres -qwindowtitle %c -qwindowicon klettres			false
+kst2.desktop	kst2 %f			false
+system-config-printer.desktop	system-config-printer			false
+wps-office-et.desktop	/usr/bin/et %f	et		false
+python2.7.desktop	/usr/bin/python2.7			true
+xfce4-power-manager-settings.desktop	xfce4-power-manager-settings			false
+marble_geojson.desktop	marble %F			true
+obconf.desktop	obconf %f			false
+software-properties-kde.desktop	software-properties-kde			true
+org.kde.bluedevilwizard.desktop	bluedevil-wizard %U			true
+raincat.desktop	raincat			false
+tuxmath.desktop	tuxmath			false
+tuxpaint-config.desktop	tuxpaint-config			false
+org.kde.knetattach.desktop	knetattach			true
+shutter.desktop	shutter %F			false
+org.kde.kexi-3.1.desktop	kexi-3.1 %f			false
+mixxx.desktop	mixxx			false
+org.kde.kstars.desktop	kstars %U			false
+qlauncher.desktop	/usr/bin/qlauncher			false
+openshot-qt.desktop	openshot-qt %F			false
+org.kde.kiten.desktop	kiten -qwindowtitle %c -qwindowicon kiten			false
+kdesystemsettings.desktop	systemsettings5			false
+org.kde.klipper.desktop	klipper			false
+org.kde.kturtle.desktop	kturtle -qwindowtitle %c			false
+org.kde.katomic.desktop	katomic -qwindowtitle %c			false
+openjdk-8-java.desktop	cautious-launcher %f /usr/bin/java -jar			true
+org.kde.granatier.desktop	granatier			false
+krita_csv.desktop	krita %u			true
+krita_pdf.desktop	krita %u			true
+marble_shp.desktop	marble %F			true
+org.kde.kmplot.desktop	kmplot %u			false
+fritzing.desktop	Fritzing			false
+scratch2.desktop	/opt/Scratch2/bin/Scratch2			false
+libreoffice-draw.desktop	libreoffice --draw %U	libreoffice-draw		false
+org.kde.polkit-kde-authentication-agent-1.desktop	/usr/lib/i386-linux-gnu/libexec/polkit-kde-authentication-agent-1		KDE;	true
+evince-previewer.desktop	evince-previewer %U			true
+pysiogame.desktop	pysiogame			false
+software-properties-drivers.desktop	/usr/bin/software-properties-gtk --open-tab=4			false
+plasma-windowed.desktop	plasmawindowed %u			false
+org.kde.krita.desktop	krita %U			false
+epoptes.desktop	/usr/bin/epoptes			false
+krita_psd.desktop	krita %u			true
+blender.desktop	blender %f			false
+firefox.desktop	firefox %u			false
+org.kde.discover.apt.urlhandler.desktop	plasma-discover %U			true
+krita_heightmap.desktop	krita %u			true
+krita_raw.desktop	krita %u			true
+scribus.desktop	scribus %f	scribus		false
+gbterminal.desktop	/usr/bin/gbterminal			false
+omnitux.desktop	/usr/bin/omnitux			false
+org.kde.plasmashell.desktop	plasmashell		KDE;	true
+org.kde.palapeli.desktop	palapeli			false
+krita_xcf.desktop	krita %u			true
+pintascreen-master.desktop	/usr/bin/pintascreen-master			false
+krita_kra.desktop	krita %u			true
+appurl.desktop	/opt/kingsoft/wps-office/office6/parsecloudfiletool %u			true
+org.kde.marble.desktop	marble %F			false
+org.kde.blinken.desktop	blinken			false
+org.kde.kig.desktop	kig %U --qwindowtitle %c			false
+org.kde.kitenkanjibrowser.desktop	kitenkanjibrowser			true
+wps-office-wpp.desktop	/usr/bin/wpp %f	wpp		false
+qsettings.desktop	/usr/bin/qsettings			false
+krita_png.desktop	krita %u			true
+org.kde.kinfocenter.desktop	kinfocenter		KDE;	false
+marble_gpx.desktop	marble %F			true
+file-roller.desktop	file-roller %U			false
+tuxpaint.desktop	tuxpaint			false
+vlc.desktop	/usr/bin/vlc --started-from-file %U			false
+org.kde.cantor.desktop	cantor -qwindowicon cantor -qwindowtitle %c %U			false
+krita_jpeg.desktop	krita %u			true
+evince.desktop	evince %U			false
+org.kde.kmenuedit.desktop	kmenuedit		KDE;	true
+gcr-viewer.desktop	/usr/bin/gcr-viewer			true
+krita_tga.desktop	krita %u			true
+gbedit.desktop	/usr/bin/gbEdit			false
+gcr-prompter.desktop	/usr/lib/gcr/gcr-prompter			true
+lxrandr.desktop	lxrandr			false
+ri-li.desktop	ri-li			false
+quadrapassel.desktop	quadrapassel			false
+xfce4-notifyd-config.desktop	xfce4-notifyd-config		XFCE;	false
+jclicreports.desktop	jclicreports			false
+jclicauthor.desktop	jclicauthor			false
+org.kde.ksysguard.desktop	ksysguard %U			false
+qbittorrent.desktop	qbittorrent %U	qbittorrent		false
+org.kde.kubrick.desktop	kubrick			false
+org.kde.parley.desktop	parley %u			false
+krita_brush.desktop	krita %u			true
+pictogram.desktop	/usr/bin/pictogram			false
+wps-office-wps.desktop	/usr/bin/wps %f	wps		false
+org.kde.step.desktop	step -qwindowtitle %c -qwindowicon step			false
+krita_tiff.desktop	krita %u			true
+org.kde.kfontview.desktop	kfontview %U			true
+org.kde.kanagram.desktop	kanagram			false
+audacity.desktop	env UBUNTU_MENUPROXY=0 audacity %F			false
+shotwell.desktop	shotwell %U			false
+org.kde.kbruch.desktop	kbruch -qwindowtitle %c -qwindowicon kbruch			false
+krita_ppm.desktop	krita %u			true
+sqlitebrowser.desktop	sqlitebrowser %f			false
+org.kde.kgeography.desktop	kgeography			false
+org.gnome.FileRoller.desktop	file-roller %U			true
+gbrainy.desktop	gbrainy			false
+org.kde.kblocks.desktop	kblocks -qwindowtitle %c			false
+marble_kml.desktop	marble %F			true
+org.kde.bluedevilsendfile.desktop	bluedevil-sendfile			true
+tuxtype.desktop	tuxtype			false
+childsplay.desktop	childsplay			false
+krita_svg.desktop	krita %u			true
+org.kde.kcolorschemeeditor.desktop	kcolorschemeeditor		KDE;	true
+marble_geo.desktop	marble --geo-uri=%u			true
+org.kde.gcompris.desktop	gcompris-qt			false
+kwalletmanager5-kwalletd.desktop	kwalletmanager5 --kwalletd			true
+marble_kmz.desktop	marble %F			true
+bibletime.desktop	bibletime			false
+lxterminal.desktop	lxterminal			false
+org.kde.discover.urlhandler.desktop	plasma-discover %U			true
+educap.desktop	sh /usr/bin/educap.sh			false
+org.kde.kalzium_cml.desktop	kalzium -qwindowtitle %c -molecule %f			true

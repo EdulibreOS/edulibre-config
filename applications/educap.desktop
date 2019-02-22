@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Edulibre CAP
+Comment=Edulibre CAP is part of EdulibreOS software
+Exec=sh /usr/bin/educap.sh
+Icon=educap
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Education;

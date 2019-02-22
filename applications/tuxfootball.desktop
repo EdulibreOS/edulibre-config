@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Tux Football
+Comment=A fun arcade-style 2D football game, very reminsicent of Sensible Soccer and Kick Off
+Comment[de]=Ein spaßiges 2D Fußballspiel, sehr ähnlich wie Sensible Soccer oder Kick Off
+Comment[fr]= Un jeu de football 2D de style arcade amusant, qui rapelle trés bien Sensible Soccer et Kick Of
+Comment[es]= Un divertido juego de fítbol en 2D estilo arcade, que recuerda mucho a Sensible Soccer y Kick Off
+Exec=tuxfootball
+Terminal=false
+Icon=tuxfootball
+Type=Application
+Categories=Game;SportsGame;
+Keywords=soccer;football;sport;

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/usr/games/etoys
+Icon=/usr/share/pixmaps/activity-etoys.xpm
+Terminal=false
+Name=eToys
+Comment= A media-rich model, simulation construction kit and authoring tool
+Comment[es]=Herramienta multimedia de simulación y creación de contenidos
+Categories=Education
